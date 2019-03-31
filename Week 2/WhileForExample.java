@@ -49,7 +49,7 @@ public class WhileForExample {
 		}
 		
 		// for loop 5 - break 2
-		System.out.println("\nfor loop 4 - using break");
+		System.out.println("\nfor loop 5 - using break");
 		for (int cnt5=0; cnt5<10; cnt5++) {
 			System.out.println(cnt5);
 			if (cnt5==5) // not = but ==
