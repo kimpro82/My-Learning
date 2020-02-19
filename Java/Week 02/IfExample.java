@@ -7,7 +7,7 @@ public class IfExample {
 		int num1 = 52;
 		int num2 = 24;
 		if (num1 > num2) {
-			System.out.println("num1 °ªÀÌ ´õ Å®´Ï´Ù.");
+			System.out.println("num1 ê°’ì´ ë” í½ë‹ˆë‹¤.");
 			System.out.println("num1 = " + num1);
 		}
 
@@ -20,25 +20,25 @@ public class IfExample {
 		else
 			System.out.println("num4 = " + num4);
 		
-		// if ÁßÃ¸
-		System.out.println("\nif ÁßÃ¸");
+		// if ì¤‘ì²©
+		System.out.println("\nif ì¤‘ì²©");
 		int num5 = 52;
 		int num6 = 24;
 		int num7 = 32;
 		if (num5 > num6)
 			if (num5 > num7)
-				System.out.println("num5°¡ Á¦ÀÏ Å®´Ï´Ù.");
+				System.out.println("num5ê°€ ì œì¼ í½ë‹ˆë‹¤.");
 		
 		// Dangling Else Rule
 		System.out.println("\nDangling Else Rule");
 		int num8 = 74;
 		if (num8 < 10)
-			System.out.println("num8ÀÇ °ªÀº 10 ¹Ì¸¸ÀÔ´Ï´Ù.");
+			System.out.println("num8ì˜ ê°’ì€ 10 ë¯¸ë§Œì…ë‹ˆë‹¤.");
 		else if (num8 < 100)
-			System.out.println("num8ÀÇ °ªÀº 10 ÀÌ»ó, 100 ¹Ì¸¸ÀÔ´Ï´Ù.");
+			System.out.println("num8ì˜ ê°’ì€ 10 ì´ìƒ, 100 ë¯¸ë§Œì…ë‹ˆë‹¤.");
 		else if (num8 < 1000)
-			System.out.println("num8ÀÇ °ªÀº 100 ÀÌ»ó, 1000 ¹Ì¸¸ÀÔ´Ï´Ù.");
+			System.out.println("num8ì˜ ê°’ì€ 100 ì´ìƒ, 1000 ë¯¸ë§Œì…ë‹ˆë‹¤.");
 		else
-			System.out.println("num8ÀÇ °ªÀº 1000 ÀÌ»óÀÔ´Ï´Ù.");
+			System.out.println("num8ì˜ ê°’ì€ 1000 ì´ìƒì…ë‹ˆë‹¤.");
 	}
 }

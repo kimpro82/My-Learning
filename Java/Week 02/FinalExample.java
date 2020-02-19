@@ -1,13 +1,13 @@
 public class FinalExample {
 	public static void main(String args[]) {
-		final double pi; // final : º¯¼ö°ªÀ» ÇÑ¹ø¸¸ ´ëÀÔ °¡´É
+		final double pi; // final : ë³€ìˆ˜ê°’ì„ í•œë²ˆë§Œ ëŒ€ì… ê°€ëŠ¥
 		double radius = 2.0;
-		pi = 3.14; // ÇÑ¹ø ´ëÀÔ
+		pi = 3.14; // í•œë²ˆ ëŒ€ì…
 		double circum = 2 * pi * radius;
 		System.out.println(circum);
 
 		/* error
-		pi = 3.141592; // µÎ¹øÂ° ´ëÀÔ ½Ãµµ
+		pi = 3.141592; // ë‘ë²ˆì§¸ ëŒ€ì… ì‹œë„
 		double area = pi * radius * radius;
 		System.out.println(area);
 		*/

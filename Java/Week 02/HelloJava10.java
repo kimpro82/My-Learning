@@ -1,6 +1,6 @@
 
-/* ÇÁ·Î±×·¥ ÀÌ¸§ : HelloJava10 */
-public class HelloJava10 { // ¿À¸¥ÂÊÀ¸·Î ÁÖ¼®
+/* í”„ë¡œê·¸ë¨ ì´ë¦„ : HelloJava10 */
+public class HelloJava10 { // ì˜¤ë¥¸ìª½ìœ¼ë¡œ ì£¼ì„
 	public static void main(String args[]) {
 		int num = 0;
 		while (num < 10) {
