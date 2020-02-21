@@ -1,6 +1,6 @@
 # My Python Practice - Network & Security
 
-![TCPUDP](https://github.com/kimpro82/My-Learning/blob/master/images/범죄와의전쟁_최민식_느그서장이랑.jpg)  
+![TCPUDP](https://github.com/kimpro82/My-Learning/blob/master/Image/범죄와의전쟁_최민식_느그서장이랑.jpg)  
 "내가 인마! 서버랑 클라이언트랑 마! 소켓 열고! 메세지 보내고! TCP랑 UDP랑 다 했어!"
 
 - 10_RSA_Encryption.py (2019.12.01)
@@ -366,7 +366,7 @@ ftp.cwd("/pub") # change FTP directory
 print("사이트 : ", FTP_SERVER_URL, "의 파일목록")
 ftp.dir() # get the list of the server's directories
 ```
-![ftp.dir()](https://github.com/kimpro82/My_Practice/blob/master/images/2019-10-27%2020%3B29%3B39%20HW3-1%20Result.PNG)  
+![ftp.dir()](https://github.com/kimpro82/My-Learning/blob/master/Image/2019-10-27%2020%3B29%3B39%20HW3-1%20Result.PNG)  
 
 ### 5_FTP_2.py (2019.10.27)
 file upload to the FTP server
