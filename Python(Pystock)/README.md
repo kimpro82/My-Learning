@@ -3,10 +3,13 @@
 - http://learningspoons.com/offline-class/offline-invest/cryptocurrency/
 
 ### Python Lesson 1 (2018.11.11)
+- `variable` `string` `list` `tuple` and `dictionary`
 
 ### Python Lesson 2 (2018.11.18)
+- `if` `for` `while` `function` and `module`
 
 ### Python Lesson 3 (2018.11.25)
+- `class` `method` and `inheritance`
 
 ### Python Lesson 4 (2018.12.02)
 
