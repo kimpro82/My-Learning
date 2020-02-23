@@ -12,8 +12,9 @@
 - `class` `method` and `inheritance`
 
 ### Python Lesson 4 (2018.12.02)
-- Crawling by `BeautifulSoup`, Call Cryptocurrency Data through `Korbit API`, `Pandas` and `pybithumb`
+- Crawling by `BeautifulSoup`, Call Cryptocurrency Data through `Korbit API` and `Pandas`
 
 ### Python Lesson 5 (2018.12.09)
+- Volatility Break-out Strategy, Price / Account Balance Inquiry and Buy / Sell Order by `pybithumb`
 
 ### Python Lesson 6 (2018.12.16)
