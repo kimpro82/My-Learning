@@ -1,6 +1,12 @@
 ## My-Learning
 My practice related with lectures : Python, Java and so on
 
+### Unity(C#) : Game Programming
+- KHCU Lecture (2020 Spring) / preparing
+
+### Python : Algorithm and Problem Solving
+- KHCU Lecture (2020 Spring) / preparing
+
 ### Python : Network & Security Programming
 - KHCU Lecture (2019 Fall) / partially uploaded (preparing)
 - Encryption & Decryption by RSA (2019.12.01)
