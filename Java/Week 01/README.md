@@ -1,3 +1,3 @@
-![My First Java Class](https://github.com/kimpro82/My_Java_Class/blob/master/Java/Week%2001/2019-03-17%20My%20First%20Java%20Class.PNG)
+![My First Java Class](https://github.com/kimpro82/MyLearning/blob/master/Image/2019-03-17%20My%20First%20Java%20Class.PNG)
 
 Tomorrow I will make Skynet
