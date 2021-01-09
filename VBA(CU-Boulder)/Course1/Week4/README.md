@@ -158,7 +158,7 @@ End Sub
 > 26
 
 
-### 05 LoopExamples.bas
+### 05 Loop_Examples.bas
 
 ```VBA
 Option Explicit
@@ -197,7 +197,7 @@ End Sub
 ```
 
 
-### 06 ForNext.bas
+### 06 For_Next.bas
 
 ```VBA
 Option Explicit
