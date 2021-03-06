@@ -1,8 +1,8 @@
 public class DecExample4 {
 	public static void main(String args[]) {
 		{
-			int num = 10; // method ì•ˆì—ì„œ ì„ ì–¸í•˜ë©´ ì§€ì—­ë³€ìˆ˜
+			int num = 10; // method ¾È¿¡¼­ ¼±¾ğÇÏ¸é Áö¿ªº¯¼ö
 		}
-		System.out.println(num); // num ëª» ë¶ˆëŸ¬ì˜¨ë‹¤
+		System.out.println(num); // num ¸ø ºÒ·¯¿Â´Ù
 	}
 }

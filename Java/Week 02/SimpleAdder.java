@@ -4,6 +4,6 @@ public class SimpleAdder {
 		num = 10 + 20;
 		System.out.println(num);
 		if (num>10)
-			System.out.println("Â°Ã¨Â»Ãª Â°Ã¡Â°ÃºÂ°Â¡ 10ÂºÂ¸Â´Ã™ Ã…Â®Â´ÃÂ´Ã™");
+			System.out.println("°è»ê °á°ú°¡ 10º¸´Ù Å®´Ï´Ù");
 	}
 }

@@ -1,4 +1,3 @@
-
 public class SwitchExample {
 	public static void main(String args[]) {
 		
@@ -19,7 +18,7 @@ public class SwitchExample {
 				break;
 		}
 
-		// switch 2 - ë‘˜ ì´ìƒì˜ ê°’ì— ëŒ€í•´ ê°™ì€ ì²˜ë¦¬
+		// switch 2 - µÑ ÀÌ»óÀÇ °ª¿¡ ´ëÇØ °°Àº Ã³¸®
 		char ch = 'b';
 		switch (ch) {
 			case 'A' : // not ; but :

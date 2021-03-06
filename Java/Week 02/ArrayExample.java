@@ -1,4 +1,3 @@
-
 public class ArrayExample {
 	public static void main(String args[]) {
 		int arr[];
@@ -34,4 +33,4 @@ public class ArrayExample {
 		System.out.println(arr2.length);
 		System.out.println(table2.length);
 		}
-	}	
+	}
